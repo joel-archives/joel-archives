@@ -7,7 +7,7 @@ I like working across the stack, but I have a soft spot for smooth front-end exp
 
 ## 🛠 Tech I Work With
 **Languages & Frameworks**  
-Java · JavaScript · Python · C · PHP · HTML · CSS/SCSS  
+Java · JavaScript · Python · C · C# · PHP · HTML · CSS/SCSS  
 Angular · React · Laravel  
 Wordpress · Unity 
 
