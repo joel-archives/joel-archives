@@ -31,6 +31,6 @@ MySQL · MongoDB · Git · REST APIs
 
 ---
 -->
-> *Good code reads like a story — clear, concise, and built to last.*
+> *Good code reads like a story, clear, concise, and built to last.*
 
 
