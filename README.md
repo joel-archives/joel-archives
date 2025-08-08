@@ -17,7 +17,7 @@ MySQL · MongoDB · Git · REST APIs
 ---
 <!--
 ## 📌 Pinned Projects
-*(Add links once your repos are ready)*
+
 - **[Project Name](#)** — short one-liner about what it does
 - **[Project Name](#)** — short one-liner about what it does
 - **[Project Name](#)** — short one-liner about what it does
@@ -31,6 +31,6 @@ MySQL · MongoDB · Git · REST APIs
 
 ---
 -->
-> *Good code reads like a story, clear, concise, and built to last.*
+> *Good code reads like a story.*
 
 
